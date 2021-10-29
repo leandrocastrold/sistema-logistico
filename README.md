@@ -8,12 +8,12 @@
 
 Link para acessar a parte *front-end* (**Angular 12**) da aplicação:
 
-(https://github.com/leandrocastrold/sistema-logistico-front-end)
+https://github.com/leandrocastrold/sistema-logistico-front-end
 
  ## Back-end
  
  Link para acessar a parte *back-end* (**Spring Boot/PostgreSQL**) da aplicação:
  
-(https://github.com/leandrocastrold/sistema-logistico-back-end) 
+https://github.com/leandrocastrold/sistema-logistico-back-end
  
  
